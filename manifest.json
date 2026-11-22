@@ -1,0 +1,475 @@
+{
+  "version": 1,
+  "note": "MAXDATA 在线音效库；全部为原创文案 + 自有 TTS 合成，可免费使用",
+  "format": "wav pcm_s16le 16000Hz mono",
+  "clips": [
+    {
+      "id": "tts_talk_01",
+      "cat": "talk",
+      "label": "非机动车请靠右行驶",
+      "file": "talk/tts_talk_01.wav",
+      "sha256": "2c43a94d4db45d8bd8fe58ee022dd454a6371a48ddd5825d68b7374a6d43ac3a",
+      "size": 47248,
+      "free": true
+    },
+    {
+      "id": "tts_talk_02",
+      "cat": "talk",
+      "label": "前方路口，请注意安全",
+      "file": "talk/tts_talk_02.wav",
+      "sha256": "576af04c4c5824ad176eaafc8e86819e59420a54c3cc6c8ba57ad79401db336a",
+      "size": 57532,
+      "free": true
+    },
+    {
+      "id": "tts_talk_03",
+      "cat": "talk",
+      "label": "麻烦让一下，我要过去了",
+      "file": "talk/tts_talk_03.wav",
+      "sha256": "09fa5a27806d6dfdfdfd028df33ee1d425929f5a8b58d991747548baed8d4880",
+      "size": 64074,
+      "free": true
+    },
+    {
+      "id": "tts_talk_04",
+      "cat": "talk",
+      "label": "请保持车距，不要跟太近",
+      "file": "talk/tts_talk_04.wav",
+      "sha256": "3917edfbdc42656f52adb5ccb4a7c71c636b40192b8347182722eb0dcce5a8f3",
+      "size": 52072,
+      "free": true
+    },
+    {
+      "id": "tts_talk_05",
+      "cat": "talk",
+      "label": "我要倒车了，大家让一让",
+      "file": "talk/tts_talk_05.wav",
+      "sha256": "d3becedc0461422042b614c6213997d68454a0ee5fbab8df1c48108ecdbf6b28",
+      "size": 45348,
+      "free": true
+    },
+    {
+      "id": "tts_talk_06",
+      "cat": "talk",
+      "label": "绿灯亮了，可以走了",
+      "file": "talk/tts_talk_06.wav",
+      "sha256": "bcaa38d0b39dab14e238914a263bc1a7f949ef449f6fed74a9f3aee682b519da",
+      "size": 49412,
+      "free": true
+    },
+    {
+      "id": "tts_talk_07",
+      "cat": "talk",
+      "label": "路上小心，安全第一",
+      "file": "talk/tts_talk_07.wav",
+      "sha256": "f3306fb3c028df23d6dbd34caa4fef95a14ddbce5a231739df16e3dbe39cad66",
+      "size": 55114,
+      "free": true
+    },
+    {
+      "id": "tts_talk_08",
+      "cat": "talk",
+      "label": "过马路请看车，别着急",
+      "file": "talk/tts_talk_08.wav",
+      "sha256": "1cb9f0e15e60b3ed062480a9518a44e82a91903e7358a54f2ce07aa589f74a63",
+      "size": 55472,
+      "free": true
+    },
+    {
+      "id": "tts_talk_09",
+      "cat": "talk",
+      "label": "临时停靠，马上就走",
+      "file": "talk/tts_talk_09.wav",
+      "sha256": "af69887dec10fee1ea237dda56a10725f27057315fac3b8cdcec07132734c392",
+      "size": 54780,
+      "free": true
+    },
+    {
+      "id": "tts_talk_10",
+      "cat": "talk",
+      "label": "谢谢让行，祝你一路平安",
+      "file": "talk/tts_talk_10.wav",
+      "sha256": "e82f25ab2370acec481393c03fe2ce41304fceded2fd30ece63481dbf2900e7d",
+      "size": 63820,
+      "free": true
+    },
+    {
+      "id": "tts_talk_11",
+      "cat": "talk",
+      "label": "大爷，您先走",
+      "file": "talk/tts_talk_11.wav",
+      "sha256": "65738eaf9439b47a08bf7c29ad23e049e9ea8a5ff0cea985ab2af7eea1b49c2b",
+      "size": 36022,
+      "free": true
+    },
+    {
+      "id": "tts_talk_12",
+      "cat": "talk",
+      "label": "请排队，谢谢配合",
+      "file": "talk/tts_talk_12.wav",
+      "sha256": "4b8ca38e5d75e7e37fba47c6197d9cdf06239952f9f070fa9f9fb0963380f8d1",
+      "size": 41590,
+      "free": true
+    },
+    {
+      "id": "tts_talk_13",
+      "cat": "talk",
+      "label": "我要变道，借过一下",
+      "file": "talk/tts_talk_13.wav",
+      "sha256": "1bb963b6c010a5d0b8d0e5d917b979c17e969ee0ccd677ae72c5feecd6533550",
+      "size": 42428,
+      "free": true
+    },
+    {
+      "id": "tts_talk_14",
+      "cat": "talk",
+      "label": "请关远光灯，谢谢",
+      "file": "talk/tts_talk_14.wav",
+      "sha256": "01fdfc6d4439eb29c8c745049487f464d338325126c031e25975968582efaa7f",
+      "size": 43794,
+      "free": true
+    },
+    {
+      "id": "tts_talk_15",
+      "cat": "talk",
+      "label": "车库出口，请减速慢行",
+      "file": "talk/tts_talk_15.wav",
+      "sha256": "08d6905924784861d42a580c0c5001b64540bb5339214f8c3272d620eeca28f6",
+      "size": 54086,
+      "free": true
+    },
+    {
+      "id": "tts_talk_16",
+      "cat": "talk",
+      "label": "后备箱开着，请注意",
+      "file": "talk/tts_talk_16.wav",
+      "sha256": "a20dbf5cf9943033b116031ade50c80d8411a633f1ea3a3cdde63d9b03cd78b8",
+      "size": 55024,
+      "free": true
+    },
+    {
+      "id": "tts_talk_17",
+      "cat": "talk",
+      "label": "礼让行人，平安相伴",
+      "file": "talk/tts_talk_17.wav",
+      "sha256": "ad65fd90fb7cbeaacbfbbc81cdd60d01159828464f0a5604a9888f29d0d8c76e",
+      "size": 54164,
+      "free": true
+    },
+    {
+      "id": "tts_talk_18",
+      "cat": "talk",
+      "label": "前方事故，请绕行",
+      "file": "talk/tts_talk_18.wav",
+      "sha256": "7f82837851917665877b31dee0b3960f646d8b8c242c86a777d497cd2d675b61",
+      "size": 42510,
+      "free": true
+    },
+    {
+      "id": "tts_talk_19",
+      "cat": "talk",
+      "label": "孩子刚下车，请慢行",
+      "file": "talk/tts_talk_19.wav",
+      "sha256": "d6bf6b29d363d677d13555c19b43d6fa8af3db3f2b59071e0ff505586a087a95",
+      "size": 58300,
+      "free": true
+    },
+    {
+      "id": "tts_talk_20",
+      "cat": "talk",
+      "label": "老师傅，您先请",
+      "file": "talk/tts_talk_20.wav",
+      "sha256": "f5cf2b0d8fab8cc883c67f25afd3b68a1af32c072494e32bcf4400bdcd4ef21a",
+      "size": 41538,
+      "free": true
+    },
+    {
+      "id": "tts_lock_01",
+      "cat": "lock",
+      "label": "已锁车，请放心",
+      "file": "lock/tts_lock_01.wav",
+      "sha256": "b9f34b353fee7325cb5b8beb205e8b8f6c1f2d3740033813275f5bb9a0fa53c0",
+      "size": 37572,
+      "free": true
+    },
+    {
+      "id": "tts_lock_02",
+      "cat": "lock",
+      "label": "锁好了，一路平安",
+      "file": "lock/tts_lock_02.wav",
+      "sha256": "6e6bd33bbdbf90f1056023ec327fb2ca29a719b5e0ec299cd90b00dedd75cbb0",
+      "size": 43040,
+      "free": true
+    },
+    {
+      "id": "tts_lock_03",
+      "cat": "lock",
+      "label": "晚安，明天见",
+      "file": "lock/tts_lock_03.wav",
+      "sha256": "f41addce381e370e15cc8ccaab168bad0e4aa1f7968bd54a90d95b2acae8c123",
+      "size": 32088,
+      "free": true
+    },
+    {
+      "id": "tts_lock_04",
+      "cat": "lock",
+      "label": "车门已锁，请注意财物",
+      "file": "lock/tts_lock_04.wav",
+      "sha256": "6d190dd887a7b15c260fc2ae0dd571d130591f904eeabe5b4c4d68ec9c51483e",
+      "size": 42950,
+      "free": true
+    },
+    {
+      "id": "tts_lock_05",
+      "cat": "lock",
+      "label": "主人慢走，我来守车",
+      "file": "lock/tts_lock_05.wav",
+      "sha256": "763c45671315e20c30bf81cc7caee84679f398eda2354231ad034cc33203d3fb",
+      "size": 45164,
+      "free": true
+    },
+    {
+      "id": "tts_lock_06",
+      "cat": "lock",
+      "label": "已设防，放心离开",
+      "file": "lock/tts_lock_06.wav",
+      "sha256": "d18eb7db2273fd182fe3924520d1075e3aa893f0e74b5510b8e73637e3a9d08b",
+      "size": 42040,
+      "free": true
+    },
+    {
+      "id": "tts_lock_07",
+      "cat": "lock",
+      "label": "锁车成功",
+      "file": "lock/tts_lock_07.wav",
+      "sha256": "958fa4c1ba887469e2fa619f0e0258a646fe9d2801e0b4983bac42523a8e717a",
+      "size": 15960,
+      "free": true
+    },
+    {
+      "id": "tts_lock_08",
+      "cat": "lock",
+      "label": "拜拜，下次再见",
+      "file": "lock/tts_lock_08.wav",
+      "sha256": "fb4bea6977e336fa8988e0abe569a30e67dda9d726622f9fc51c141dfdfd2b42",
+      "size": 30426,
+      "free": true
+    },
+    {
+      "id": "tts_lock_09",
+      "cat": "lock",
+      "label": "车已锁好，再见",
+      "file": "lock/tts_lock_09.wav",
+      "sha256": "77e7274e973975632a5be56114b9a7643cb3e14cb2b3291512c9c15375cdafd1",
+      "size": 37390,
+      "free": true
+    },
+    {
+      "id": "tts_lock_10",
+      "cat": "lock",
+      "label": "一切安好，放心走吧",
+      "file": "lock/tts_lock_10.wav",
+      "sha256": "659cae0a0d300d9bdd51dbb3b646962659224991afc36b41145f95b9acdb3b4b",
+      "size": 46072,
+      "free": true
+    },
+    {
+      "id": "tts_lock_11",
+      "cat": "lock",
+      "label": "主人，欢迎回家",
+      "file": "lock/tts_lock_11.wav",
+      "sha256": "fbc36a23a8e14cf8b8d9325110b45bdb244aa7da63f5e2826a2606052749e95c",
+      "size": 35588,
+      "free": true
+    },
+    {
+      "id": "tts_lock_12",
+      "cat": "lock",
+      "label": "停车成功，安心离开",
+      "file": "lock/tts_lock_12.wav",
+      "sha256": "d59b2bf58b3aa9b9730a6dcf8751ea1aeb4d471024380ae8c2ce404b5dc252fa",
+      "size": 38866,
+      "free": true
+    },
+    {
+      "id": "tts_lock_13",
+      "cat": "lock",
+      "label": "小车已锁定，晚安",
+      "file": "lock/tts_lock_13.wav",
+      "sha256": "6e93228453816aed1cb33cc0c923b4d4af1ed0fec629be416877e04b55d69f8c",
+      "size": 41784,
+      "free": true
+    },
+    {
+      "id": "tts_lock_14",
+      "cat": "lock",
+      "label": "锁好啦，溜达去吧",
+      "file": "lock/tts_lock_14.wav",
+      "sha256": "333f64f70467226041e42f9a258ef08f5a191cc313216e745d5b4f801d27bcb7",
+      "size": 36632,
+      "free": true
+    },
+    {
+      "id": "tts_lock_15",
+      "cat": "lock",
+      "label": "已上锁，贵重物品请带走",
+      "file": "lock/tts_lock_15.wav",
+      "sha256": "5acb801aa6c46cb06551cb40a4ac132e5deadb4e2a82d55645222d71c5ba3bfc",
+      "size": 50636,
+      "free": true
+    },
+    {
+      "id": "tts_lock_16",
+      "cat": "lock",
+      "label": "明天见，一路平安",
+      "file": "lock/tts_lock_16.wav",
+      "sha256": "be2610092bd6b14743279c2fbe2bb50caee9fbeb525ffd4083f6cbeae425dc67",
+      "size": 47292,
+      "free": true
+    },
+    {
+      "id": "tts_lock_17",
+      "cat": "lock",
+      "label": "小主人，我去休息啦",
+      "file": "lock/tts_lock_17.wav",
+      "sha256": "00a3c2ac2fab5ec24c202a7ef3a5c40d2a16a58c72fd2ec49fa8041c8d98ed4d",
+      "size": 39904,
+      "free": true
+    },
+    {
+      "id": "tts_lock_18",
+      "cat": "lock",
+      "label": "车辆已设防，请放心",
+      "file": "lock/tts_lock_18.wav",
+      "sha256": "f00cf35bd384d04f07987ee2c75dd237f13b648296f06632df42a3ce4ed11271",
+      "size": 40642,
+      "free": true
+    },
+    {
+      "id": "tts_lock_19",
+      "cat": "lock",
+      "label": "收工，回家喽",
+      "file": "lock/tts_lock_19.wav",
+      "sha256": "954abc4f7da3e7eb8b626e724d9e94840926655709acc3c32767a26516db4202",
+      "size": 37544,
+      "free": true
+    },
+    {
+      "id": "tts_lock_20",
+      "cat": "lock",
+      "label": "车门已锁，安心离开",
+      "file": "lock/tts_lock_20.wav",
+      "sha256": "a41ccfe97ce7bae8d6cc553da361e2940df423cce6ea195af911a1016707baa1",
+      "size": 45770,
+      "free": true
+    },
+    {
+      "id": "tts_lock_21",
+      "cat": "lock",
+      "label": "呱",
+      "file": "lock/tts_lock_21.wav",
+      "sha256": "4239ced0fbed59bbc7d536f43264edfa1543d3453373c0e488b6f654d4ca913e",
+      "size": 25684,
+      "free": true
+    },
+    {
+      "id": "tts_lock_22",
+      "cat": "lock",
+      "label": "哈基米锁车音",
+      "file": "lock/tts_lock_22.wav",
+      "sha256": "897d957cd453cbf690b52955c83affb7e6354c95ec0feb532506c012338fe59b",
+      "size": 25820,
+      "free": true
+    },
+    {
+      "id": "tts_lock_23",
+      "cat": "lock",
+      "label": "倒车请注意，锁好啦",
+      "file": "lock/tts_lock_23.wav",
+      "sha256": "e16f1e8455acf157e75c593b19d717e355e5972b1b4d9fb28a49cc5855f7025d",
+      "size": 52132,
+      "free": true
+    },
+    {
+      "id": "tts_lock_24",
+      "cat": "lock",
+      "label": "来了老弟，锁上了",
+      "file": "lock/tts_lock_24.wav",
+      "sha256": "7fa1449bf547c9460ff588454f753d39f142f8705f539735e09c6adf73e1dfbd",
+      "size": 40902,
+      "free": true
+    },
+    {
+      "id": "tts_lock_25",
+      "cat": "lock",
+      "label": "遥遥领先，锁定成功",
+      "file": "lock/tts_lock_25.wav",
+      "sha256": "25b8e4cd9c77ab4ac8e29ba36bda2f8b8ca5397db35bca13681eaf690b19a0b9",
+      "size": 39652,
+      "free": true
+    },
+    {
+      "id": "tts_lock_26",
+      "cat": "lock",
+      "label": "小飞棍来喽，拜拜",
+      "file": "lock/tts_lock_26.wav",
+      "sha256": "bbc7207a3dc9566dc67986db249c37c4f3ace2b2271bdb5609fdeb51abe9c83c",
+      "size": 39796,
+      "free": true
+    },
+    {
+      "id": "tts_lock_27",
+      "cat": "lock",
+      "label": "记得关机，锁好啦",
+      "file": "lock/tts_lock_27.wav",
+      "sha256": "0385d1f44748fc6e2b1bdcd2cad505ee1ecce302e924a7e9b1e44a953f29a038",
+      "size": 50928,
+      "free": true
+    },
+    {
+      "id": "tts_lock_28",
+      "cat": "lock",
+      "label": "锁门收工，溜了溜了",
+      "file": "lock/tts_lock_28.wav",
+      "sha256": "4f47f369818b24359323e1c7e92c2832f06d15934f1f17ddb06cd34a62984c8b",
+      "size": 51794,
+      "free": true
+    },
+    {
+      "id": "tts_lock_29",
+      "cat": "lock",
+      "label": "叮咚，小可爱已锁车",
+      "file": "lock/tts_lock_29.wav",
+      "sha256": "032353eb144b6196fa074b9c9a4f5d4b5f792fb24256082dbaf50b068804f478",
+      "size": 43710,
+      "free": true
+    },
+    {
+      "id": "tts_lock_30",
+      "cat": "lock",
+      "label": "车已锁，快去干饭",
+      "file": "lock/tts_lock_30.wav",
+      "sha256": "3127ac9fca45329c63e30d3693bcadcb39a4d9b4229259584352a86e60209b24",
+      "size": 36840,
+      "free": true
+    },
+    {
+      "id": "tts_lock_31",
+      "cat": "lock",
+      "label": "安全送达，明天见哦",
+      "file": "lock/tts_lock_31.wav",
+      "sha256": "2b637f746e4570ffc6b97427dd746036c6b1327415feefe3f4d85456f1b4615f",
+      "size": 45858,
+      "free": true
+    },
+    {
+      "id": "tts_lock_32",
+      "cat": "lock",
+      "label": "搞定收工，撒由那拉",
+      "file": "lock/tts_lock_32.wav",
+      "sha256": "2022dd58dead9925b990bec00ef3364b45500ba8c9c72ebd11f04db9cf0593da",
+      "size": 54124,
+      "free": true
+    }
+  ]
+}
